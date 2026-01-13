@@ -102,9 +102,11 @@ toml==0.10.2
     # via
     #   pre-commit
     #   pytest
+typing-extensions==4.15.0
+    # via virtualenv
 urllib3==1.26.19
     # via requests
-virtualenv==20.26.6
+virtualenv==20.36.1
     # via
     #   nox
     #   pre-commit
